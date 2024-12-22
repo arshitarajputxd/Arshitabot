@@ -2,7 +2,7 @@ module.exports.config = {
   name: "drake",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "drake",
   commandCategory: "Tiện ích",
   usages: "[text 1] | [text 2]",
