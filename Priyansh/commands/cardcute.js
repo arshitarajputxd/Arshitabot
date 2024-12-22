@@ -7,7 +7,7 @@ module.exports.config = {
   name: "cardcute",
   version: "2.0.1",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "Create information cards in cute style",
   commandCategory: "info",
   usages: "",
@@ -26,7 +26,7 @@ module.exports.circle = async (image) => {
   return await image.getBufferAsync("image/png");
 }
 module.exports.run = async function ({ api, event, args, Users }) {
-  if ((this.config.credits) != "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭") { return api.sendMessage(`⚡️Detected credits have been changed`, event.threadID, event.messageID)}
+  if ((this.config.credits) != "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭") { return api.sendMessage(`⚡️Detected credits have been changed`, event.threadID, event.messageID)}
   let { senderID, threadID, messageID } = event;
   const { loadImage, createCanvas } = require("canvas");
   const request = require('request');
