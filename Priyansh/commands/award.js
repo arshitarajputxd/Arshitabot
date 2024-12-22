@@ -2,7 +2,7 @@ module.exports.config = {
   name: "award",
   version: "3.1.1",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "Award for your self <3",
   commandCategory: "Edit-IMG",
   usages: "[ name ] | [ text ]",
