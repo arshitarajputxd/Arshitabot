@@ -2,7 +2,7 @@ module.exports.config = {
   name: "download",
   version: "1.0.1",
   hasPermssion: 2,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "Download files",
   commandCategory: "System",
   usages: "download <link> || download <path> <link>",
