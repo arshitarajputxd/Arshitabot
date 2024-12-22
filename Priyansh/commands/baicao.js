@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "cao3la",
 	version: "1.0.4",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Game betting is reserved for groups that bet",
 	commandCategory: "game-mp",
 	usages: "[start/join/info/leave]",
