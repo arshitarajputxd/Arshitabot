@@ -5,7 +5,7 @@ module.exports.config = {
  name: "coupledp",
  version: "1.0",
  haspermission: 0,
- credit: "Loid Butter",
+ credit: "Arshita Rajput",
  cooldown: 5,
  description: "couple dp",
  commandCategory: "image",
