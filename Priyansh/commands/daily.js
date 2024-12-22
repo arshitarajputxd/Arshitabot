@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "daily",
 	version: "1.0.2",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Get 19011310000 coins every day!",
 	commandCategory: "economy",
     cooldowns: 5,
