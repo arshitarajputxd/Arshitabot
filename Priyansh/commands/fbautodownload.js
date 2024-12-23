@@ -7,7 +7,7 @@ module.exports.config = {
     name: "fbautodownload",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Priyansh Rajput",
+    credits: "Arshita Rajput",
     description: "Downloads Facebook video from HD link provided",
     commandCategory: "utility",
     usages: "[Facebook video URL]",
