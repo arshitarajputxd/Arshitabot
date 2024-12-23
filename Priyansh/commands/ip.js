@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "ip",	
 	version: "1.0.0", 
 	hasPermssion: 0,
-	credits: "NTKhang",
+	credits: "Arshita Rajput",
 	description: "View your ip information or other ip", 
 	commandCategory: "other",
 	usages: "",
