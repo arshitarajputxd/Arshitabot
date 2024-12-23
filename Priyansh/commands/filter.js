@@ -2,7 +2,7 @@ module.exports.config = {
     name: "filter",
     version: "2.0.0",
     hasPermssion: 1,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
     description: "\u0046\u0069\u006c\u0074\u0065\u0072 \u0046\u0061\u0063\u0065\u0062\u006f\u006f\u006b \u0055\u0073\u0065\u0072 ",
     commandCategory: "filter box",
     usages: "",
