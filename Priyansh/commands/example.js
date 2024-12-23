@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "nameCommand", // Tên lệnh, được sử dụng trong việc gọi lệnh
 	version: "version", // phiên bản của module này
 	hasPermssion: 0/1/2, // Quyền hạn sử dụng, với 0 là toàn bộ thành viên, 1 là quản trị viên trở lên, 2 là admin/owner
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭", // Công nhận module sở hữu là ai
+	credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭", // Công nhận module sở hữu là ai
 	description: "say bla bla ở đây", // Thông tin chi tiết về lệnh
 	commandCategory: "group", // Thuộc vào nhóm nào: system, other, game-sp, game-mp, random-img, edit-img, media, economy, ...
 	usages: "[option] [text]", // Cách sử dụng lệnh
