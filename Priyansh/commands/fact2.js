@@ -2,7 +2,7 @@ module.exports.config = {
     name: "fact2",
     version: "1.0.1",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
     description: "",
     commandCategory: "image",
     usages: "text",
