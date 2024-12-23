@@ -7,7 +7,7 @@ module.exports.config = {
     name: "igautodownload",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "Priyansh Rajput",
+    credits: "Arshita Rajput",
     description: "Downloads Instagram video from HD link provided",
     commandCategory: "utility",
     usages: "[Instagram video URL]",
