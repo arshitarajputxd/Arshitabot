@@ -2,7 +2,7 @@ module.exports.config = {
     name: "family",
     version: "1.0.0",
     hasPermssion: 1,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
     description: "Create a photo of all members in the box",
     commandCategory: "Create a photo",
     usages: "family <size> [#color code] or family <size>\nEnter the appropriate member avatar size and color code for the text (default is black) according to the syntax:\n$family <size> <mã màu> <title>\nin which:\n•size: Size of each member's avatar\n•color code: hex color code\n•title: image title, default is box name\nEg: $family 200 #ffffff Brothers of one house\nIf you choose size = 0 will automatically adjust the size, if you do not enter the title, the title will be the box name",
