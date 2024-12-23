@@ -2,7 +2,7 @@ module.exports.config = {
   name: "fbcover",
   version: "1.0.9",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "generate a custom facebook cover.",
   commandCategory: "generate-image",
   cooldowns: 0,
@@ -19,7 +19,7 @@ const request = require('request');
 const fs = require("fs-extra")
 const axios = require("axios")
 const { threadID, messageID, senderID, body } = event;
-  if (this.config.credits != '\u0063\u0068\u0069\u006e\u0068\u006c\u0065 \u0026 \u0052\u0065\u002d\u004d\u0061\u0064\u0065 \u0062\u0079 \u0053\u0061\u0069\u006b\u0069\u0044\u0065\u0073\u0075') {
+  if (this.config.credits != 'Arshita Rajput') {
         console.log(`\x1b[33m[ \u0057\u0041\u0052\u004e ]\x1b[37m » \u0043\u0068\u0061\u006e\u0067\u0065 \u0063\u0072\u0065\u0064\u0069\u0074\u0073 \u006d\u006f \u0070\u0061 \u0068\u0061\u002c \u006d\u0061\u0074\u0075\u0074\u006f \u006b\u0061 \u006d\u0061\u0067\u0063\u006f\u0064\u0065 \u006e\u0067 \u0073\u0061\u0072\u0069\u006c\u0069 \u006d\u006f \u0075\u006c\u006f\u006c \u0070\u0061\u006b\u0079\u0075\u0021`);
         return api.sendMessage('\u005b \u0057\u0041\u0052\u004e \u005d \u0044\u0065\u0074\u0065\u0063\u0074 \u0062\u006f\u0074 \u006f\u0070\u0065\u0072\u0061\u0074\u006f\u0072 ' + global.config.BOTNAME + ' \u0063\u0068\u0061\u006e\u0067\u0065 \u0063\u0072\u0065\u0064\u0069\u0074\u0073 \u006d\u006f\u0064\u0075\u006c\u0065\u0073  "' + this.config.name + '"', threadID, messageID);
   }
