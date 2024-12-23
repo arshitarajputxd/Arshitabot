@@ -10,7 +10,7 @@ module.exports.config = {
   name: "tweet-tag",
   version: "7.3.1",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "tweet Post",
   commandCategory: "Edit-Img",
   usages: "text",
