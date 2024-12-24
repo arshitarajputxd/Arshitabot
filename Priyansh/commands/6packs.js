@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.0",
     credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
     hasPermssion: 1,
-    description: "Use this for stupid members Name\nMade by Arshita Rajput",
+    description: "Use this for stupid members Name\nMade by Arshi Rajput",
     usages: "antichangegroupname on/off",
     commandCategory: "System",
     cooldowns: 0
