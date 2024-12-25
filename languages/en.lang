@@ -59,7 +59,7 @@ users.needObject=Have to be an Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=⛔️~Tu Banned Hai Re 🤭!~🚫\n%1\n%2\nContact B0T Owner Priyansh  🖤 For Unban ⚠️
+handleCommand.userBanned=⛔️~Tu Banned Hai Re 🤭!~🚫\n%1\n%2\nContact B0T Owner Arshita  🖤 For Unban ⚠️
 handleCommand.threadBanned=⛔️Your Thread/Box/Group Has Been Banned!⛔️\n%1\n%2 Please Contact Owner Arshita For Unban ⚠️
 handleCommand.commandNotExist= This Command Not In System Try %1, 🖤🦋
 handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
