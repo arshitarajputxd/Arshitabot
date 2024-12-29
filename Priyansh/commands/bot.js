@@ -28,16 +28,16 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Konsa mahina chal raha hai 😝", threadID);
    };
 
-    if ((event.body.toLowerCase() == "🤗") || (event.body.toLowerCase() == "🤗")) {
-     return api.sendMessage("Hug me baby ☺️", threadID);
+    if ((event.body.toLowerCase() == "ami tumake valobashi") || (event.body.toLowerCase() == "Ami tumake valobashi")) {
+     return api.sendMessage("Ahaa Ami Je Tumar Tumi Sadhu Amar ❤️🫣", threadID);
    };
 
    if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsimi")) {
      return api.sendMessage("Prefix Kon Lagayega? Pehle Prefix Lagao Fir Likho Sim", threadID);
    };
   
-   if ((event.body.toLowerCase() == "hi") || (event.body.toLowerCase() == "hello") ||(event.body.toLowerCase() == "hlw") || (event.body.toLowerCase() == "helo")) {
-     return api.sendMessage("Hello, Hi, Bye bye. Ye sab ke alawa kuch bolna nhi ata Kya tujhe", threadID);
+   if ((event.body.toLowerCase() == "Arshita") || (event.body.toLowerCase() == "boss") ||(event.body.toLowerCase() == "@Olivia Shazadi") || (event.body.toLowerCase() == "Arshi")) {
+     return api.sendMessage("Wo Abhi Busy Hai Kya Kaam hai Mere se Bol 👿", threadID);
    };
 
    if ((event.body.toLowerCase() == "bc") || (event.body.toLowerCase() == "bc")) {
